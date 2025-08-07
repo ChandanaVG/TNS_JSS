@@ -1,4 +1,4 @@
-package basics;
+package com.tnsif.basics;
 
 public class WrapperClassesDemo {
 
