@@ -25,7 +25,7 @@ public class UpperBoundedWildCardDemo {
 		stringList.add("hello");
 		stringList.add("hru");
 		//Can't call methods
-		System.out.println(UpperBoundedWildCard.sumOfList(stringList));
+		//System.out.println(UpperBoundedWildCard.sumOfList(stringList));
 		
 	}
 
